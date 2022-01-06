@@ -17,8 +17,10 @@ If you use the developed simulator and datasets in your papers, please cite our 
 For the usgae of related parameters in the developed simulator:
 The example to obtain camera intrinsic parameters, camera extrinsic parameters and point cloud of one frame:
 
-focal_length = 4.969783; \\
-sensor_width = 10.26; \\
+focal_length = 4.969783; 
+
+sensor_width = 10.26; 
+
 sensor_height = 7.695;
 cols = 320; % image width
 rows = 240; % image height
