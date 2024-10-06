@@ -9,7 +9,7 @@ And "groundTruth_pose" in mat file is the camera poses, the optical center of th
 
 The dataset was collectd when the camera was moved in a normal motion simillar to a normal colonosacopy procedure and the camera calibration parameters for this folder of images: fx = 1.550029785575049e+02; % unit in pixel fy = 1.550029785575049e+02; cx = 120.0; cy = 160.0;
 
-datasetlink: https://studentutsedu-my.sharepoint.com/:f:/g/personal/shuai_zhang_student_uts_edu_au/EnbBHlnZNoZLkU__FfAGHSMBwUrqfP_N-vWNFPKk4kMO2A?e=pck126
+datasetlink: https://studentutsedu-my.sharepoint.com/:f:/g/personal/shuai_zhang_alumni_uts_edu_au/EnbBHlnZNoZLkU__FfAGHSMBwUrqfP_N-vWNFPKk4kMO2A?e=biKv7y
 
 If you use the developed simulator and datasets in your papers, please cite our paper named "3D Reconstruction of Deformable Colon Structures based on Preoperative Model and Deep Neural Network", thank you very much!
 
